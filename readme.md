@@ -1,9 +1,11 @@
-# exclamation
+# Holy exclamation [![Build Status](https://travis-ci.org/terkelg/exclamation.svg?branch=master)](https://travis-ci.org/terkelg/exclamation)
 
 > Holy here we go again, random Robin exclamation catch-phrases
 
-Robin of the 1960s Batman TV series is noted for his many catch-phrase "Holy..." exclamations.
+<img src="media.gif" width="640">
 
+Robin of the 1960s Batman TV series is noted for his many catch-phrase "Holy..." exclamations.
+This is all 367 exclamations in alphabetical order.
 
 ## Install
 
